@@ -1,0 +1,2 @@
+# APPpurimandarAI
+Aplikasi integrasi warga
